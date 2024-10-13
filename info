@@ -1,0 +1,6 @@
+1. Скачать репозиторий
+git clone https://github.com/Alex-overone/git_our.git
+2. Заливка в удаленный репозиторий git
+    - add
+    - commit
+    - push
